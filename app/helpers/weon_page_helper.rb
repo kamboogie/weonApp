@@ -1,0 +1,2 @@
+module WeonPageHelper
+end
